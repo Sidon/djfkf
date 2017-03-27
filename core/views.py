@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from .forms import RegCarForm
-from .models import *
+from .models import Car, Fleet
 
 # Create your views here.
 
