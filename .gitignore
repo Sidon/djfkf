@@ -90,6 +90,3 @@ ENV/
 
 #pycharm
 .idea
-
-#sqlite database
-*.sqlite3

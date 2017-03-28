@@ -1,6 +1,6 @@
 import json
 from django import forms
-from .models import Brand, Car, Fleet
+from .models import *
 
 class RegCarForm(forms.ModelForm):
 

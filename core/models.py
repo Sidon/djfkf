@@ -1,6 +1,5 @@
 from django.db import models
 
-
 class Brand(models.Model):
     company_name = models.CharField(max_length=100)
 
