@@ -28,7 +28,7 @@ Usage
 -----
    ./manage runserver
 
-.. image:: regcar.png
+.. image:: screen1.png
 
 |
 
